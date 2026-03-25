@@ -1,9 +1,3 @@
-
----
-
-# 📘 README 2 — Atividade .NET (Templates + csproj)
-
-```markdown
 # Atividade de Fixação - .NET CLI e Estrutura de Projetos
 
 Esta atividade tem como objetivo praticar o uso da CLI do .NET, explorando templates de projetos, criação de aplicações e análise da estrutura interna de um projeto.
